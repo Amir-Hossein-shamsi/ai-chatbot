@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Python-3.10%2B-yellow" alt="Python 3.10+" />
 </p>
 
-# 🤖 AI Chat Companion
+# 🤖 AI ChatBot
 
 > A sleek, Streamlit-based AI assistant with ultra-low latency Groq models, persistent SQL conversation history, and fully customizable UI.
 
